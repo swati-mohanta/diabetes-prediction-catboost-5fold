@@ -149,14 +149,10 @@ You can upload this file directly on the Kaggle competition page.
 
 ```bash
 git clone https://github.com/<swati-mohanta>/<diabetes-prediction-catboost-5fold>.git
-cd <repo-name>
+cd <diabetes-prediction-catboost-5fold>
 ```
 
 ### **2. Install Dependencies**
-
-```bash
-pip install -r requirements.txt
-```
 
 Required libraries:
 
@@ -181,5 +177,3 @@ or run directly on Kaggle Notebooks.
 ## 🏆 Acknowledgements
 
 This project was built as part of the **Kaggle Diabetes Prediction Competition**, and is publicly available for educational and research use.
-
----
